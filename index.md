@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: template
+layout: default
 filename: index
 ---
 
