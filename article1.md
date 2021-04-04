@@ -42,13 +42,15 @@ filename: article1
 
 #### b. 緑化まで（約4ヶ月）
 
-1. [AtCoder Problems](https://kenkoooo.com/atcoder#/table/tenorist)
+1. [AtCoder Problems](https://kenkoooo.com/atcoder#/table/)
 
     - ACした問題、まだ解いてない問題、不正解のままの問題が一目で分かって便利です
 
     - 各問題のdifficultyを見ることができます。（difficultyがxの問題は、レートxの人の50%が解ける難易度）
 
     - 自分のレート色の以上の難易度のものを埋めると、ゆっくりでも効果は顕著に表れます。
+
+    - バーチャルコンテストを作って参加することができます。ただし[GitHub](https://github.com/)アカウントが必要です。
 
 2. [JOI埋め](https://joi.goodbaton.com/)
 
