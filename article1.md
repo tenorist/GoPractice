@@ -1,6 +1,6 @@
 ---
 title: 入水した
-layout: template
+layout: default
 filename: article1
 ---
 
