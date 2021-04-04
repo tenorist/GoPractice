@@ -48,7 +48,7 @@ filename: article1
 
     - 各問題のdifficultyを見ることができます。（difficultyがxの問題は、レートxの人の50%が解ける難易度）
 
-    - 自分のレートのdifficulty以上のものを埋めると、ゆっくりでも効果は顕著に表れます。
+    - 自分のレート色の以上の難易度のものを埋めると、ゆっくりでも効果は顕著に表れます。
 
 2. [JOI埋め](https://joi.goodbaton.com/)
 
@@ -91,3 +91,6 @@ filename: article1
 ## 今後の目標
 
 - 年内には †青コーダー† なりたいです。もっと精進します。
+
+
+## [HOMEに戻る](https://tenorist.github.io/GoPractice)
