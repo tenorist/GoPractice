@@ -4,6 +4,8 @@ layout: template
 filename: index
 ---
 
+# GoPractice
+
 ## これは何？
 
 私が色変したり、競プロについて何か書きたいと思ったときに使うページです。
