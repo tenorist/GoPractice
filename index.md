@@ -19,6 +19,10 @@ filename: index
 
 - [IHC感想](https://tenorist.github.io/GoPractice/article2.pdf)（2021.4）
 
+- [PC環境調査](https://tenorist.github.io/GoPractice/article3.pdf)（2021.4）
+
+    - 1年前に競プロerに向けて調査したもの。悲しいことにブラウザ聞くの忘れてる。
+
 
 ## "tenorist"と"tourist"って似てないですか？
 
