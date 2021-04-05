@@ -15,7 +15,9 @@ filename: README
 
 ## 記事一覧
 
-- [入水した](https://tenorist.github.io/GoPractice/article1) (2021.4)
+- [入水した](https://tenorist.github.io/GoPractice/article1) （2021.4）
+
+- [IHC感想](https://tenorist.github.io/GoPractice/article2.pdf)（2021.4）
 
 
 ## "tenorist"と"tourist"って似てないですか？
