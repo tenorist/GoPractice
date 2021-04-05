@@ -1,7 +1,7 @@
 ---
 title: HOME
 layout: default
-filename: README
+filename: index
 ---
 
 # __*Go Practice*__   [![tenorist](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftenorist)](https://atcoder.jp/users/tenorist)
@@ -15,7 +15,9 @@ filename: README
 
 ## 記事一覧
 
-- [入水した](https://tenorist.github.io/GoPractice/article1) (2021.4)
+- [入水した](https://tenorist.github.io/GoPractice/article1) （2021.4）
+
+- [IHC感想](https://tenorist.github.io/GoPractice/article2.pdf)（2021.4）
 
 
 ## "tenorist"と"tourist"って似てないですか？
