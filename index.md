@@ -4,9 +4,7 @@ layout: default
 filename: index
 ---
 
-# __*Go Practice*__
-
-[![CI](https://github.com/tenorist/GoPractice/actions/workflows/blank.yml/badge.svg)](https://github.com/tenorist/GoPractice/actions/workflows/blank.yml) [![tenorist](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftenorist)](https://atcoder.jp/users/tenorist) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/tenorist/GoPractice/blob/main/LICENSE)
+# __*Go Practice*__ [![CI](https://github.com/tenorist/GoPractice/actions/workflows/blank.yml/badge.svg)](https://github.com/tenorist/GoPractice/actions/workflows/blank.yml)
 
 ![icon](https://img.atcoder.jp/icons/2ddce8c1126cbd22fa6638c592905153.png)
 
