@@ -16,11 +16,11 @@ filename: index
 
 ## 記事一覧
 
-- [入水した](https://tenorist.github.io/GoPractice/articles/article1)
+- [入水した](https://tenorist.github.io/GoPractice/articles/01)
 
-- [IHC感想](https://tenorist.github.io/GoPractice/articles/article2.pdf)
+- [IHC感想](https://tenorist.github.io/GoPractice/articles/02.pdf)
 
-- [PC環境調査](https://tenorist.github.io/GoPractice/articles/article3.pdf)
+- [PC環境調査](https://tenorist.github.io/GoPractice/articles/03.pdf)
 
     - 1年前に競プロerに向けて調査したもの。悲しいことにブラウザ聞くの忘れてる。
 
