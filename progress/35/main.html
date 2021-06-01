@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>正答確認</title>
+    <script type="text/javascript">
+        function gate() {
+            var UserInput = prompt("Please input the answer.","");
+            location.href = UserInput + ".html";
+        }
+    </script>
+</head>
+<body bgcolor="black" text="red">
+    <div style="text-align:center;">
+        <h1>正答確認　35</h1>
+        <br>
+        <p><input type="button" value="INPUT ANSWER" onclick="gate();"></p>
+        <br>
+        <p><font color="white">※ たとえば A=4,B=100,C=334 ならば 「4,100,334」と入力してください</font></p>
+        <p><font color="white">※ Bは2通り考えられますが、大きい方が正解になることは保障されています</font></p>
+    </div>
+</body>
+</html>
